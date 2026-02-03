@@ -1,0 +1,7 @@
+{
+  "name": "Xiaohongshu AI Copywriter",
+  "description": "A premium AI-powered tool to generate high-engagement Xiaohongshu (Red) posts with catchy titles, emotional content, and optimized hashtags based on your topic and images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
